@@ -1,0 +1,6 @@
+CLIENT_ID=813396705443-rklcsp4o14c0d1iuk38iifnpkk61v61q.apps.googleusercontent.com
+CLIENT_SECRET=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
+MONGODB_URI=mongodb+srv://swadhindas620:kanhagulu@cms.krf482q.mongodb.net/test
+JWT_SECRET=YourSecretKeyHere
+SECRET_KEY=mynameisswadhindas
+
